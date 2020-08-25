@@ -34,13 +34,10 @@ class EditProduct extends Component {
   }
 
   changeHandler = (event) => {
-    // console.log(event.target.name)
     let name = event.target.name;
     let val = event.target.value;
     this.setState({ [name]: val });
-    // console.log(this.state)
-    // this.handleValidation();
-  };
+     };
 
   contactSubmit = (event) => {
     event.preventDefault();

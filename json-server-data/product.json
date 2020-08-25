@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Accessories",
+      "name": "Earrings",
+      "price": "220",
+      "quantity": "9",
+      "instock": "YES",
+      "img": "https://rukminim1.flixcart.com/image/580/696/j0y5z0w0/earring/g/k/s/ybear-31070-youbella-original-imaesm8cz55sghne.jpeg?q=50"
+    },
+    {
+      "category": "Clothing",
+      "name": "T-shirt",
+      "price": "1500",
+      "quantity": "1",
+      "instock": "YES",
+      "img": "https://rukminim1.flixcart.com/image/580/696/kd4uj680/t-shirt/k/m/u/s-joy-503-white-joycotts-original-imafu3wpvduzsygk.jpeg?q=50",
+      "id": 2
+    },
+    {
+      "category": "Electronics",
+      "name": "Earphones",
+      "price": "7000",
+      "quantity": "10",
+      "instock": "YES",
+      "img": "https://rukminim1.flixcart.com/image/612/612/kb6tyfk0/headphone/k/v/b/rma205-realme-original-imafsh3wcdggedct.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "category": "Accessories",
+      "name": "Handbag",
+      "price": "1500",
+      "quantity": "1",
+      "instock": "YES",
+      "img": "https://rukminim1.flixcart.com/image/580/696/k3rmm4w0/sling-bag/a/c/t/edna-sling-medium-e-beige-8901188773415-sling-bag-caprese-original-imafmtfyag9cbkha.jpeg?q=50",
+      "id": 4
+    },
+    {
+      "category": "Clothing",
+      "name": "JumpSuit",
+      "price": "2500",
+      "quantity": "25",
+      "instock": "NO",
+      "img": "https://rukminim1.flixcart.com/image/580/696/k868how0/jumpsuit/z/z/z/free-rns-500-glamcci-original-imafq8gneryrwa3z.jpeg?q=50",
+      "id": 5
+    }
+  ]
+}
